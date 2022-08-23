@@ -8,5 +8,5 @@ project(
 )
 
 add_executable(
-        LESSON_NUM ./src/
+        LESSON_NUM ./src/test.c ./src/test.h
 )

@@ -1,0 +1,1 @@
+This program enters in both a double and int as input and outputs a formatted decimal and int

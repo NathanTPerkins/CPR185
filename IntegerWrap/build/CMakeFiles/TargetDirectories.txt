@@ -1,0 +1,3 @@
+/Users/nathanperkins/CLionProjects/CPR185/Week3/build/CMakeFiles/Week3.dir
+/Users/nathanperkins/CLionProjects/CPR185/Week3/build/CMakeFiles/edit_cache.dir
+/Users/nathanperkins/CLionProjects/CPR185/Week3/build/CMakeFiles/rebuild_cache.dir

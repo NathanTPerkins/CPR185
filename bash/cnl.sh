@@ -2,7 +2,7 @@
 
 read -p "[What is the name of your new lesson]:: " lesson_name
 
-cd ~/CPR185/
+cd ~/CLionProjects/CPR185/
 mkdir "$lesson_name"
 cd ./$lesson_name
 mkdir build

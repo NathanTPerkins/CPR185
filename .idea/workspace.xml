@@ -20,6 +20,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a3b98b55-5ba9-4c5d-8ca2-53f9018af754" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/build/CMakeFiles/week_2.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/build/CMakeFiles/week_2.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/build/CMakeFiles/week_2.dir/src/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/build/CMakeFiles/week_2.dir/src/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/build/week_2" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/build/week_2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/src/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +34,13 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -74,6 +85,7 @@
       <workItem from="1661259426544" duration="1212000" />
       <workItem from="1661353067130" duration="1039000" />
       <workItem from="1661355721590" duration="2341000" />
+      <workItem from="1662038539562" duration="1788000" />
     </task>
     <servers />
   </component>

@@ -19,9 +19,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b98b55-5ba9-4c5d-8ca2-53f9018af754" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week3/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CellTower/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CellTower/tower.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoublePrecision/build/CMakeFiles/DoubleP.dir/compiler_depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bash/cnl.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bash/cnl.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublePrecision/build/CMakeFiles/DoubleP.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/DoublePrecision/build/CMakeFiles/DoubleP.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublePrecision/build/CMakeFiles/DoubleP.dir/src/double.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/DoublePrecision/build/CMakeFiles/DoubleP.dir/src/double.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublePrecision/build/DoubleP" beforeDir="false" afterPath="$PROJECT_DIR$/DoublePrecision/build/DoubleP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublePrecision/src/double.c" beforeDir="false" afterPath="$PROJECT_DIR$/DoublePrecision/src/double.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegerWrap/build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IntegerWrap/build/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegerWrap/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/IntegerWrap/build/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegerWrap/build/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/IntegerWrap/build/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegerWrap/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/IntegerWrap/src/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +93,8 @@
       <workItem from="1661353067130" duration="1039000" />
       <workItem from="1661355721590" duration="2341000" />
       <workItem from="1662038539562" duration="1788000" />
-      <workItem from="1662469012462" duration="1187000" />
+      <workItem from="1662469012462" duration="3749000" />
+      <workItem from="1662642002723" duration="1726000" />
     </task>
     <servers />
   </component>

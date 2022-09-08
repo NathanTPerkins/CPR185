@@ -1,4 +1,4 @@
-# Install script for directory: /Users/nathanperkins/CLionProjects/CPR185/Week3
+# Install script for directory: /Users/nathanperkins/CLionProjects/CPR185/IntegerWrap
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

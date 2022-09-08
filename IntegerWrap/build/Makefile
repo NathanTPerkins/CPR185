@@ -117,7 +117,7 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Week3
+# Target rules for targets named IntegerWrap
 
 # Build rule for target.
 Week3: cmake_check_build_system

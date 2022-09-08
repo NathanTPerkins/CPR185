@@ -7,19 +7,12 @@
  */
 
 int main(int argc, char **argv){
-//    int sum = 0;
-//    while(1){
-//        sum += 1;
-//        if(sum % 10000 == 0){
-//            printf("sum: %d\n", sum);
-//        }
-//    }
-
-    float f1 = 3.2f;
-    float f2 = 3.2f;
-
-    printf("%d\n", f1 == f2);
-
-
+    int sum = 0;
+    while(1){
+        sum += 1;
+        if(sum % 10000 == 0){
+            printf("sum: %d\n", sum);
+        }
+    }
     return 0;
 }

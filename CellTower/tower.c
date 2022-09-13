@@ -8,6 +8,6 @@ int main(int argc, char ** argv){
     printf(" Enter antenna ht, distance to antenna, distance to tree, and Tower ht:\n");
     scanf(" %lf %lf %lf %lf", &hAnt, &dAnt, &dTree, &hTower);
 
-    hTree = ((dTree*(hAnt-hTower))/dAnt) + hTower;
+    hTree = (dTree/dAnt) * (hAnt - hTower);
     printf("%.3lf\n", hTree);
 }

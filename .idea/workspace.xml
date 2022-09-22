@@ -19,18 +19,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b98b55-5ba9-4c5d-8ca2-53f9018af754" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CellTower/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CellTower/tower.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoublePrecision/build/CMakeFiles/DoubleP.dir/compiler_depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoublePrecision/build/CMakeFiles/DoubleP.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/DoublePrecision/build/CMakeFiles/DoubleP.dir/compiler_depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoublePrecision/build/CMakeFiles/DoubleP.dir/src/double.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/DoublePrecision/build/CMakeFiles/DoubleP.dir/src/double.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoublePrecision/build/DoubleP" beforeDir="false" afterPath="$PROJECT_DIR$/DoublePrecision/build/DoubleP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoublePrecision/src/double.c" beforeDir="false" afterPath="$PROJECT_DIR$/DoublePrecision/src/double.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegerWrap/build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IntegerWrap/build/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegerWrap/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/IntegerWrap/build/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegerWrap/build/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/IntegerWrap/build/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegerWrap/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/IntegerWrap/src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeBetweenTimes/td" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeBetweenTimes/timediff.c" beforeDir="false" afterPath="$PROJECT_DIR$/TimeBetweenTimes/timediff.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeBetweenTimes/timediff.o" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +65,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nathanperkins/CLionProjects/CPR185/CellTower&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -80,6 +73,11 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CellTower" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -94,7 +92,10 @@
       <workItem from="1661355721590" duration="2341000" />
       <workItem from="1662038539562" duration="1788000" />
       <workItem from="1662469012462" duration="3749000" />
-      <workItem from="1662642002723" duration="1726000" />
+      <workItem from="1662642002723" duration="2529000" />
+      <workItem from="1663074825165" duration="2812000" />
+      <workItem from="1663247983289" duration="1733000" />
+      <workItem from="1663679262875" duration="1885000" />
     </task>
     <servers />
   </component>

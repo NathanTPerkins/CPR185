@@ -4,12 +4,11 @@ int main(){
     double theNum = 0.0;
     double total = 0.0;
     int ct = 0;
+    scanf("%lf", &theNum);
     while(theNum != -1){
+        total += theNum;
+        ct += 1;
         scanf("%lf", &theNum);
-        if(theNum != -1){
-            total += theNum;
-            ct += 1;
-        }
     }
     if(ct == 0){
         printf("You entered nothing\n");

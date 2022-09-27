@@ -1,13 +1,19 @@
-all: sws
+all: sws sws2
 
-main.o: main.c
-	gcc -c main.c
+./build/main.o: main.c
+	gcc -c main.c -o ./build/main.o
 
-sws: main.o
-	gcc main.o -o sws
+sws: ./build/main.o
+	gcc ./build/main.o -o sws
+
+./build/main2.o: main2.c
+	gcc -c main2.c -o ./build/main2.o
+
+sws2: ./build/main2.o
+	gcc ./build/main2.o -o sws2
 
 
 .PHONY: clean
 
 clean:
-	rm -rf *.o sws
+	rm -rf build/*.o *.o sws sws2

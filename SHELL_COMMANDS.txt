@@ -1,6 +1,0 @@
-**This is the list of available shell commands for this Docker Container
-
-compile -S [source] -B [build] -> compile the project into an executable file using CMake and Make
-
-cnl -> Stands for "Create new lesson" creates an new lesson directory, build and src directory,
-and a CMakeLists.txt file

@@ -17,23 +17,28 @@
         Answer here (optional)
 */
 #include "../incl/colors.h"
-void red () {
-    printf("\033[1;31m");
+#include "../incl/comp_system.h"
+
+void title_text(){
+    clear_screen();
+    printf("\n");
+    title_blue();
+    printf("BASIC TERMINAL\n\n");
+    reset_color();
 }
 
-void yellow (){
-        printf("\033[1;33m");
+void inline_text(){
+    printf("Enter Command::> ");
 }
 
-void reset () {
-    printf("\033[0m");
-}
+
 
 int main () {
-    set_red();
-    printf("Hello ");
-    yellow();
-    printf("world\n");
-    reset();
+    //Title
+    title_text();
+    char hostname[100];
+    getcwd(hostname, 100);
+    printf("%s\n", hostname);
+
     return 0;
 }

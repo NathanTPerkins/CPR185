@@ -5,6 +5,7 @@
 
 /*
  * Color Codes -> https://www.theurbanpenguin.com/4184-2/
+ * More Color Codes -> https://gist.github.com/RabaDabaDoba/145049536f815903c79944599c6f952a
  */
 
 void set_black(){printf("\033[0;30m");}
@@ -16,5 +17,7 @@ void set_purple(){printf("\033[0;35m");}
 void set_cyan(){printf("\033[0;36m");}
 void set_white(){printf("\033[0;37m");}
 void reset_color(){printf("\033[0m");}
+
+void title_blue(){printf("\033[0;94;1m");}
 
 #endif

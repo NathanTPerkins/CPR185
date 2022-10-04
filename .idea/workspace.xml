@@ -20,9 +20,13 @@
   <component name="ChangeListManager">
     <list default="true" id="a3b98b55-5ba9-4c5d-8ca2-53f9018af754" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeBetweenTimes/td" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeBetweenTimes/timediff.c" beforeDir="false" afterPath="$PROJECT_DIR$/TimeBetweenTimes/timediff.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeBetweenTimes/timediff.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingPractice1/build/p1" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingPractice1/build/p1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingPractice1/build/p1.o" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingPractice1/build/p1.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingPractice1/incl/colors.h" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingPractice1/incl/colors.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingPractice1/incl/comp_system.h" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingPractice1/incl/comp_system.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingPractice1/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingPractice1/src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_statements/if.o" beforeDir="false" afterPath="$PROJECT_DIR$/if_statements/if.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_statements/ifc" beforeDir="false" afterPath="$PROJECT_DIR$/if_statements/ifc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +81,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CellTower" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ProgrammingPractice1/src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -96,6 +103,15 @@
       <workItem from="1663074825165" duration="2812000" />
       <workItem from="1663247983289" duration="1733000" />
       <workItem from="1663679262875" duration="1885000" />
+      <workItem from="1663851816259" duration="1570000" />
+      <workItem from="1664284020707" duration="2511000" />
+      <workItem from="1664327439320" duration="11000" />
+      <workItem from="1664327454013" duration="5207000" />
+      <workItem from="1664376861449" duration="690000" />
+      <workItem from="1664392455418" duration="6000" />
+      <workItem from="1664393854494" duration="464000" />
+      <workItem from="1664456781232" duration="2290000" />
+      <workItem from="1664888930111" duration="1000" />
     </task>
     <servers />
   </component>

@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
+#include <string.h>
 
 //Obtained the macro information from -> https://iq.opengenus.org/detect-operating-system-in-c/
 //Unistd documentation -> https://pubs.opengroup.org/onlinepubs/7908799/xsh/unistd.h.html

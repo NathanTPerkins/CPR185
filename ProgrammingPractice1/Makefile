@@ -1,13 +1,13 @@
 
-all: ./build/p1
+all: p1
 
 ./build/p1.o: src/main.c
 	gcc -c src/main.c -o ./build/p1.o
 
-./build/p1: ./build/p1.o
-	gcc ./build/p1.o -o ./build/p1
+p1: ./build/p1.o
+	gcc ./build/p1.o -o p1
 
 .PHONY: clean
 
 clean:
-	rm ./build/*
+	rm ./build/* p1

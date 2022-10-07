@@ -7,7 +7,7 @@ int main(){
     scanf(" %d %d", &width, &height);
 
     for(int i = 0; i < height; ++i){
-        for(int j = 0; j < width; ++j){
+        for(int j = 0; j < i; ++j){
             printf("[%d,%d]",i, j);
         }
         printf("\n");
